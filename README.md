@@ -1,0 +1,2 @@
+# CustomEnchants-BETA
+CustomEnchants-BETA
